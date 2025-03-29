@@ -79,5 +79,3 @@ Contributions are welcome! Here are some potential improvements:
 ## License
 
 MIT License - free for personal and commercial use.
-
-```
