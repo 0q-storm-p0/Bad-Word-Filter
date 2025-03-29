@@ -1,6 +1,3 @@
-Here's the complete text you should put in your `README.md` file:
-
-````markdown
 # Bad Word Filter
 
 A simple Python library to filter out inappropriate language from text, with configurable sensitivity and replacement options.
@@ -32,7 +29,6 @@ filter.configure_bad_words("badWords.txt")
 clean_text = filter.filter_text("Some inappropriate content here", replace_with_star=True)
 print(clean_text)
 ```
-````
 
 ## Configuration Options
 
